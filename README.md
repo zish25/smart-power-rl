@@ -31,6 +31,16 @@ python main.py
 - ✓ Reduces hospital blackouts by 60%
 - ✓ Improves grid efficiency by 40%
 - ✓ Uses Reinforcement Learning (Q-Learning)
+- ## 📊 Results
+
+### Training Performance
+![Training Results](01_training_results.png)
+
+### Final Simulation
+![Simulation](02_final_simulation.png)
+
+### Performance Comparison
+![Performance](03_performance_comparison.png)
 
 ---
 
