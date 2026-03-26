@@ -226,5 +226,5 @@ All code is self-documented with:
 - Clear variable names
 - Type hints where applicable
 
-Enjoy your hackathon! 🚀
+
 
